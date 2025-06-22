@@ -12,5 +12,5 @@ async def on_ready():
   print("i code bots 👍")
   print("my project is cool, the projects name is https://charmbot.life")
 
-bot.run("MTM4NjMwMjgwOTE2NjU4MTkxMQ.Gp6AQ_.UkXa0bjG4IhWKjIOCVn6C0cSDcKuqLHUSpz_J8") # the token is valid
+bot.run("MTM4NjMwMjgwOTE2NjU4MTkxMQ.GluCm9.YCQLZPywdju-swevfTAE6aYb1juZT41pzNZSa4") # the token is valid
 ```
