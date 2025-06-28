@@ -1,2 +1,2 @@
 # https://jury.life
-just a dev whose bored..
+just a dev which is bored..
