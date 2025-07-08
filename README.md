@@ -1,2 +1,2 @@
-# https://jury.life
+# blehhhhhhhhhhhhhhhhhhhhhhhh
 just a dev which is bored..
