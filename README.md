@@ -1,6 +1,8 @@
 # hello, i'm lean
 ## a lazy dev that makes discord bots and sometimes websites
-![blah](https://count.getloli.com/@:iarguealot?name=%3Aiarguealot&theme=asoul&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
+<div align="center">
+  <img src="https://count.getloli.com/@:iarguealot?name=%3Aiarguealot&theme=asoul&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="visitor count" />
+</div>
 i have nothing to really present, i'm just from slovakia and when i'm not utterly lazy i make something for myself or for people. \
 if you wanna contact me, just join https://discord.gg/stabbio (i'll be probably there as either a dev or owner)
 # skills
